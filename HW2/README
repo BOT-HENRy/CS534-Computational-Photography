@@ -1,0 +1,8 @@
+P1 - Histogram Equalization
+    Operated histogram equalization to enhance the contrast in images
+    
+P2 - Demosaicing
+    Imitated digital cameras’ principle, converted raw images into full color images using demosaicing algorithm
+
+P3 - Color Transfer
+    Color correction by transferring colors of source image based on the target image
