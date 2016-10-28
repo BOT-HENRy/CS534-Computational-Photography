@@ -1,0 +1,1 @@
+I implemented Bill Freeman's improvement on the simple bilinear interpolation approach. The code is in FreemanDemosaic.m, as described in the pdf, it uses the interpolated G channel to modify the interpolated R and B channels. 

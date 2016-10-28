@@ -1,0 +1,1 @@
+The region I croped is a part which contains a lot of blue. It is obvious that the artifacts of demosaicing are visible. I think the reason is that the blue channel has less information compare to the red and green, which cause the differences.
